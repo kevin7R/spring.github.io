@@ -1,9 +1,5 @@
 package concert;
 
-import concert.Audience;
-import concert.ConcertConfig;
-import concert.MusicPerformance;
-import concert.Performance;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
